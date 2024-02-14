@@ -7,6 +7,9 @@ Large Language Models(LLMs) are trained on massive amounts of text data to learn
 	* Chat Models - SystemMessage, HumanMessage, AIMessage
 	* Text Embedding Models
 * Prompts
+	* Prompt Templates
+	* Example Selectors - FewShotPromptTemplate, LengthBasedExampleSelector
+	* Output Parsers
 * Memory
 * Indexes
 * Chains
